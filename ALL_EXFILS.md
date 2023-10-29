@@ -72,9 +72,11 @@
 |identifier|description|mapgenie.io|
 |----------|-----------|-----------|
 | "Tunnel" | Tunnel | [link](https://mapgenie.io/tarkov/maps/shoreline?locationIds=26116) |
+| "Rock Passage" | Rock Passage | No link - outdated extract|
 | "Pier Boat" | Pier Boat | [link](https://mapgenie.io/tarkov/maps/shoreline?locationIds=26124) |
 | "CCP Temporary" | CCP Temporary | [link](https://mapgenie.io/tarkov/maps/shoreline?locationIds=26122) |
 | "Road to Customs" | Road to Customs | [link](https://mapgenie.io/tarkov/maps/shoreline?locationIds=26121) |
+| "Scav Road to Customs" | Road to Customs | No link - probably outdated |
 | "Lighthouse_pass" | Path to Lighthouse | [link](https://mapgenie.io/tarkov/maps/shoreline?locationIds=151041) |
 | "Road_at_railbridge" | Railway Bridge | [link](https://mapgenie.io/tarkov/maps/shoreline?locationIds=151043) |
 | "Adm Basement" | Admin Basement | [link](https://mapgenie.io/tarkov/maps/shoreline?locationIds=28239) |
@@ -108,6 +110,7 @@
 | "Nothern_Checkpoint" | Northern Checkpoint | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152315) |
 | "Coastal_South_Road" | Southern Road | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152328) |
 | "Shorl_free" | Path to Shoreline | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152322) |
+| "Shorl_free_scav" | Path to Shoreline | No link - probably outdated |
 | " V-Ex_light" | Road to Military Base V-Ex | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152319) |
 | "SCAV_Industrial_Zone" | Industrial Zone Gates | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152317) |
 | "Scav_Hideout_at_the_grotto" | Scav Hideout at the Grotto | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152321) |
